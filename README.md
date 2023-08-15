@@ -40,6 +40,13 @@
 </a> 
 </p>
 
+<strong>🏆 Dooboo lab's github stats</strong>
+
+<a href="https://stats.hyochan.dev/en/stats/pratama404"><img src="https://stats.hyochan.dev/api/github-stats?login=pratama404" width="600" /></a>
+
+<strong>Holopin badges</strong>
+[![@silent's Holopin board](https://holopin.me/silent)](https://holopin.io/@silent)
+
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sendhyrama&label=Profile%20views&color=0e75b6&style=flat" alt="sendhyrama" /> </p>
