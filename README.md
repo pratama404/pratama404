@@ -40,6 +40,9 @@
 </a> 
 </p>
 
+
+  <a href="https://github.com/pratama404/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=pratama404&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  
 <strong>🏆 Dooboo lab's github stats</strong>
 
 <a href="https://stats.hyochan.dev/en/stats/pratama404"><img src="https://stats.hyochan.dev/api/github-stats?login=pratama404" width="600" /></a>
