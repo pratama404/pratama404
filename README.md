@@ -1,6 +1,10 @@
 ![logo](https://github.com/pratama404/homepagegithub/blob/main/1674547234690.jpg)
 <h1 align="center">Howdy! 👋, I'm Pratama</h1>
 <h3 align="center">A passionate about Technology🌐👨🏻‍💻</h3>
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73D3D&width=435&lines=Always+deliver+more+than+expected+%F0%9F%93%B2;Think+outside+and+do+something+%F0%9F%97%83%EF%B8%8F;Renewable+solution+troubleshooter+%F0%9F%8C%8F"></a>
+</p>
 <img align="right" alt="coding" width="300" src="https://github.com/pratama404/homepagegithub/blob/main/giphy-downsized-large.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratama404&label=Profile%20views&color=0e75b6&style=flat" alt="pratama404" /> </p>
 
@@ -44,11 +48,11 @@
 
   <a href="https://github.com/pratama404/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=pratama404&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
-<strong>🏆 Dooboo lab's github stats</strong>
+## 📉 lab's stats
 
 <a href="https://stats.hyochan.dev/en/stats/pratama404"><img src="https://stats.hyochan.dev/api/github-stats?login=pratama404" width="600" /></a>
 
-<strong>Holopin badges</strong>
+## 📛 Holopin badges
 [![@silent's Holopin board](https://holopin.me/silent)](https://holopin.io/@silent)
 
 
