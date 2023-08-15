@@ -55,6 +55,14 @@
 ## 📛 Holopin badges
 [![@silent's Holopin board](https://holopin.me/silent)](https://holopin.io/@silent)
 
+<div align="center">
+    <details>
+        <summary><b>GitHub Metrics👇🏻</b></summary>
+    <br>
+        
+<img src="https://metrics.lecoq.io/pratama404?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FBangkok">
+    </details>
+</div>
 
 <h4 align="left">  
   
