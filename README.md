@@ -1,7 +1,7 @@
+![logo](https://github.com/pratama404/homepagegithub/blob/main/1674547234690.jpg)
 <h1 align="center">Howdy! 👋, I'm Pratama</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<iframe src="https://giphy.com/embed/rSTZI4659jiC2Cr6FH" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="[https://giphy.com/gifs/loop-trippy-ui-rSTZI4659jiC2Cr6FH](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGsxbDZ2NHBxdTQ5YWZkZXR2cHA5MjJ4N2Q0cXN6dHRiYzV4azU5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rSTZI4659jiC2Cr6FH/giphy-downsized-large.gif)">via GIPHY</a></p>
-<img align="right" alt="coding" width="480" src="[https://giphy.com/gifs/loop-trippy-ui-rSTZI4659jiC2Cr6FH](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGsxbDZ2NHBxdTQ5YWZkZXR2cHA5MjJ4N2Q0cXN6dHRiYzV4azU5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rSTZI4659jiC2Cr6FH/giphy-downsized-large.gif)">
+<h3 align="center">A passionate about Technology🌐👨🏻‍💻</h3>
+<img align="right" alt="coding" width="300" src="https://github.com/pratama404/homepagegithub/blob/main/giphy-downsized-large.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratama404&label=Profile%20views&color=0e75b6&style=flat" alt="pratama404" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://s.id/agengputrapratama](https://s.id/agengputrapratama)
