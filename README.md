@@ -56,7 +56,7 @@ I created these images, feel free to use them.
 </p>
 
 ## 🧑🏻‍💻 Activity On GitHub:
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pratama404)](https://git.io/streak-stats)
 <p align="center">
   <a href="https://github.com/pratama404">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thinkright20&theme=dark&hide_border=true&stroke=f53b3b"/>
@@ -94,26 +94,12 @@ I created these images, feel free to use them.
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
+[![April 2024](https://img.shields.io/github/last-commit/pratama404/pratama404?label=profile%20updated&style=flat-square)](https://github.com/pratama404)
+
+##
+&#169; Pratama 2024.
 <!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sendhyrama&label=Profile%20views&color=0e75b6&style=flat" alt="sendhyrama" /> </p>
- <h4 align="left">I'm an undergraduate student of information system and an aspiring web and mobile app developer. I'm currently learning back-end and multi-platform development besides studying university courses as part of my degree.<p> </h4><hr> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sendhyrama&label=Profile%20views&color=0e75b6&style=flat" alt="sendhyrama" /> </p>
-
-<h4>- 👨‍💻 All of my projects & experiences are available at <a href="https://sendhyrama.github.io/">sendhyrama.github.io</a> (under development)</h4>
-
-<h4>- 📝 I regularly write articles on <a href="https://sendhyrama.medium.com/">sendhyrama.medium.com</a></h4>
-
-<h4>- 📫 Drop a message to <a href="mailto:sendhyrama@gmail.com/">sendhyrama@gmail.com</a></h4>
-
-<h4>- ✨ Check out my dev.to page <a href="https://dev.to/sendhyrama/">dev.to/sendhyrama</a></h4>
-
-<hr><h3>📌 Note : </h3>
-<h4>Top languages doesn't indicate my skill level or something like that, it's a Github metric of which languages i have the most public code on Github</h4>
-
-**sendhyrama/sendhyrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
