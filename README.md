@@ -8,6 +8,11 @@
 <img align="right" alt="coding" width="300" src="https://github.com/pratama404/homepagegithub/blob/main/giphy-downsized-large.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratama404&label=Profile%20views&color=0e75b6&style=flat" alt="pratama404" /> </p>
 
+![](https://visitor-badge.laobi.icu/badge?page_id=pratama404.pratama404)
+[![Github](https://img.shields.io/github/followers/pratama404?label=Follow&style=social)](https://github.com/pratama404)
+<br />
+<br />
+
 - 👨‍💻 All of my projects are available at [https://s.id/agengputrapratama](https://s.id/agengputrapratama)
 
 - 📝 I regularly write articles on [https://agengputrapratama.blogspot.com](https://agengputrapratama.blogspot.com)
