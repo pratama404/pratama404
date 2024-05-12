@@ -56,7 +56,9 @@ I created these images, feel free to use them.
 </p>
 
 ## 🧑🏻‍💻 Activity On GitHub:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pratama404)](https://git.io/streak-stats)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/pratama404/github-readme-quotes)
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=jhnsmyth0)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 <p align="center">
   <a href="https://github.com/pratama404">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thinkright20&theme=dark&hide_border=true&stroke=f53b3b"/>
