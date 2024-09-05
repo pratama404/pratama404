@@ -56,6 +56,11 @@ I created these images, feel free to use them.
 </p>
 
 ## 🧑🏻‍💻 Activity On GitHub:
+
+<p align="center">
+    <img src = "https://discord.c99.nl/widget/theme-3/461867995342438401.png">
+</p> 
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/pratama404/github-readme-quotes)
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=jhnsmyth0)](https://github.com/pratama404/github-twitter-card-embed)
