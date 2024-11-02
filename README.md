@@ -51,7 +51,7 @@ I created these images, feel free to use them.
 
 | Project Name          | Link Deployment                                                 | Link Repo Github                                                                                     | Tech Stack                                     |
 | --------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| Tera Carbon 			 | [Tera Carbon](https://teracarbon.streamlit.app/) | (https://github.com/pratama404/teracarbon) | Data - Streamlit, Python                                  |
+| Tera Carbon 			 | [Tera Carbon](https://teracarbon.streamlit.app/) | https://github.com/pratama404/teracarbon | Data - Streamlit, Python                                  |
 
 
 
