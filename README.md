@@ -12,7 +12,7 @@
 [![Github](https://img.shields.io/github/followers/pratama404?label=Follow&style=social)](https://github.com/pratama404)
 
 
-## I'm an Information System Student at [UINSA](https://uinsa.ac.id/)!
+## I'm an Information System Student at [UINSA](https://uinsa.ac.id/)! 🧑‍🎓
 - 👨‍💻 All of my projects are available at [https://lynk.id/agengputrapratama](https://lynk.id/agengputrapratama)
 
 - 📝 I regularly write articles on [https://agengputrapratama.blogspot.com](https://agengputrapratama.blogspot.com)
@@ -51,7 +51,8 @@ I created these images, feel free to use them.
 
 | Project Name          | Link Deployment                                                 | Link Repo Github                                                                                     | Tech Stack                                     |
 | --------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| Patungin Mini Project | [Patungin App](https://patungin-miniproject-david.netlify.app/) | [github.com/davidnasrulloh/david-mini-project](https://github.com/davidnasrulloh/david-mini-project) | FE - React Js                                  |
+| Tera Carbon 			 | [Tera Carbon](https://teracarbon.streamlit.app/) | [https://github.com/pratama404/teracarbon) | Data - Streamlit, Python                                  |
+
 
 
 
