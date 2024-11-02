@@ -46,6 +46,18 @@ I created these images, feel free to use them.
 
 <h2 align="center"><img src="stats.gif" width="35px"/><b> Statistics </b></h2>
 
+## Portfolio
+---
+
+| Project Name          | Link Deployment                                                 | Link Repo Github                                                                                     | Tech Stack                                     |
+| --------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| Patungin Mini Project | [Patungin App](https://patungin-miniproject-david.netlify.app/) | [github.com/davidnasrulloh/david-mini-project](https://github.com/davidnasrulloh/david-mini-project) | FE - React Js                                  |
+
+
+
+
+
+
 ## 📉 My Stats:
 
 <p align="center">
