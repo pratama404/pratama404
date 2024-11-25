@@ -49,10 +49,12 @@ I created these images, feel free to use them.
 ## Portfolio
 ---
 
-| Project Name          | Link Deployment                                                 | Link Repo Github                                                                                     | Tech Stack                                     |
-| --------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| Tera Carbon 			 | [Tera Carbon](https://teracarbon.streamlit.app/) | https://github.com/pratama404/teracarbon | Data - Streamlit, Python                                  |
-
+| Project Name| Link Deployment | Link Repo Github | Tech Stack |
+| ----------- | --------------- | ---------------- | ---------- |
+| Tera Carbon | [Tera Carbon](https://teracarbon.streamlit.app/) | https://github.com/pratama404/teracarbon | Data - Streamlit, Python |
+| Hospres | [Hospres](https://hospres.streamlit.app/) | https://github.com/pratama404/uasvisdat | Data - Streamlit, Python |
+| Gemistream | [Gemistream](https://gemistream.streamlit.app/) | https://github.com/pratama404/gemistream | Data - Streamlit, Python |
+| Wastman | [Wasteman(unser construction)]() | https://github.com/pratama404/zero2hero | Web - Next.js, Tailwind |
 
 
 
