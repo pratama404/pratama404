@@ -14,7 +14,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/pratama404/vcard-personal-portfolio?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/pratama404/vcard-personal-portfolio?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jhnsmyth0_?style=social)](https://twitter.com/intent/follow?screen_name=jhnsmyth0)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://www.youtube.com/agengputrapratama)
 
 
 ## I'm an Information System Student at [UINSA](https://uinsa.ac.id/)! 🧑‍🎓
