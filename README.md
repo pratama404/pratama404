@@ -79,6 +79,7 @@ I created these images, feel free to use them.
 
 <p align="center">
     <img src = "https://discord.c99.nl/widget/theme-3/461867995342438401.png">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/silents.png" alt="Your Image Badge" />
 </p> 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/pratama404/github-readme-quotes)
